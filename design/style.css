@@ -8,7 +8,7 @@ body{
 }
 
 main{
-    background-color: white);
+    background-color: white;
     width: 560px;
     margin: auto;
     padding: 10px;
@@ -38,3 +38,4 @@ a {
 a:hover {
     text-decoration: underline;
     color: rgb(26, 26, 255);
+}
